@@ -2,7 +2,7 @@
 
 
 def say_hello(name = "Ruby Programmer")
-  puts "Hello #{your_name}!"
+  puts "Hello #{name}!"
 end  
 
 say_hello("Angelina")
