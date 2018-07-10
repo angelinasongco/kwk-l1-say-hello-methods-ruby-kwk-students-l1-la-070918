@@ -1,4 +1,6 @@
 # Build your say_hello method here
 
-def say_hello
-  puts 
+name = 
+def say_hello("Ruby")
+  puts "Hello Ruby Prgrammer!"
+end  
